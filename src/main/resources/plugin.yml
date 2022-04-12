@@ -1,0 +1,6 @@
+name: Ctf
+version: '${project.version}'
+main: me.fluffykutta.ctf
+api-version: 1.16
+authors: [ Fluffykutta ]
+description: Capture the Flag event
